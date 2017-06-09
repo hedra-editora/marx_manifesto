@@ -1,0 +1,19 @@
+\select@language {brazilian}
+\hyphenpenalty =10000\thispagestyle {empty}
+\contentsline {chapter}{Introdução, por Ricardo Musse}{9}
+\contentsline {chapter}{Nota do tradutor}{31}
+\contentsline {chapter}{Prefácio à edição alemã de 1872}{33}
+\contentsline {chapter}{Prefácio à edição alemã de 1883}{37}
+\contentsline {chapter}{Prefácio à edição alemã de 1890}{39}
+\contentsline {chapter}{Manifesto do Partido Comunista}{47}
+\contentsline {section}{\numberline {0.1}Burgueses e proletários}{49}
+\contentsline {section}{\numberline {0.2}Proletários e comunistas}{70}
+\contentsline {section}{\numberline {0.3}Literatura socialista e comunista}{83}
+\contentsline {subsection}{\numberline {0.3.1}O socialismo reacionário}{83}
+\contentsline {paragraph}{\numberline {0.3.1.0.1}O socialismo feudal}{83}
+\contentsline {paragraph}{\numberline {0.3.1.0.2}O socialismo pequeno"-burguês}{86}
+\contentsline {paragraph}{\numberline {0.3.1.0.3}O socialismo alemão ou “verdadeiro”}{88}
+\contentsline {subsection}{\numberline {0.3.2}O socialismo conservador ou burguês}{92}
+\contentsline {subsection}{\numberline {0.3.3}O socialismo e o comunismo crítico"-utópicos}{94}
+\contentsline {section}{\numberline {0.4}Posição dos comunistas em relação aos diversos partidos oposicionistas}{98}
+\contentsfinish 

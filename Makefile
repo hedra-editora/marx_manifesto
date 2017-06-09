@@ -1,20 +1,55 @@
-all:
-	pdflatex MARX.tex
-	evince MARX.pdf
-dub:
-	svn propset svn:keywords "Date Id Rev" *.tex
-	pdflatex MARX.tex	
-	pdflatex MARX.tex
-	evince MARX.pdf
+TITULO = "MI_TRANS_PASSARO_MIOLO"
+GIT = `git log -1 --date=short --format=format:'%h'`
 
-dic:
-	@echo "personal_ws-1.1 pt_BR `cat *.tex | aspell -l pt_BR -t list | sort | uniq | wc -l` utf-8" > dic.pws
-	@cat *.tex | aspell -l pt_BR -t list | sort | uniq >> dic.pws
-	sh dic.sh
+all:
+	git log -1 --date=short --format=format:'\newcommand{\RevisionInfo}{%h}' > gitrevisioninfo.sty
+	latexmk -xelatex LIVRO.tex
+rename:
+	cp LIVRO.pdf $(TITULO)_MIOLO_$(GIT).pdf
+clean_arquivosgerais:
+	mv ~/Dropbox/ARQUIVOS_GERAIS/$(TITULO)_MIOLO_* ~/Dropbox/ARQUIVOS_GERAIS/OLD/
+delivery:
+	cp $(TITULO)_MIOLO_$(GIT).pdf ~/Dropbox/ARQUIVOS_GERAIS/
+	echo $(GIT) '--- Entregue em' "$$(date)" >> ENTREGAS.txt
+
 erros:
-	@cat *.tex | aspell --extra-dicts=./dic.pws -t list | sort | uniq
-corrige:
-	clear 
-	sh dic.sh
+	-grep --color=auto "LaTeX Error" LIVRO.log
+	-grep --color=auto -A 3 "Undefined" LIVRO.log
+lua:
+	lualatex  LIVRO.tex
+	lualatex  LIVRO.tex
+test:
+	xelatex LIVRO.tex
+	xelatex LIVRO.tex
+	evince LIVRO.pdf
+pdftex:
+	pdflatex --halt-on-error LIVRO.tex
+	pdflatex --halt-on-error LIVRO.tex
+mobi:	
+	tex4ebook -i -f mobi -c tex4ht EBOOK.tex 	
+epub3:
+	tex4ebook -i -f epub3 -c tex4ht EBOOK.tex 	
+epub:	
+	tex4ebook -i -c tex4ht EBOOK.tex 	
+EBOOK-pdf:
+	pdflatex -halt-on-error EBOOK.tex
+	pdflatex -halt-on-error EBOOK.tex
+EBOOK-check:
+	epubcheck EBOOK.epub
+rubber:
+	rubber --module xelatex LIVRO.tex
+rubber-test:
+	rubber --clean LIVRO.tex
+	rubber --module xelatex LIVRO.tex
+	rubber --clean LIVRO.tex
+rubber-clean:
+	rubber --clean LIVRO.tex
 clean:
-	rm *.aux *.dvi *.log MARX.pdf *.ps *.toc *.out *.ent
+	-rm *aux *log *tui *toc *.4ct *.4tc *.html *.css *.dvi *.epub *.lg *.ncx *.xref *.tmp *.idv *.opf *.fls *_latexmk LIVRO.pdf
+	-rm -rf EBOOK-epub
+	-rm -rf EBOOK-epub3
+	-rm -rf EBOOK-mobi
+git:
+		git add .
+		git commit -m "direto na linha de comando"
+		git push
