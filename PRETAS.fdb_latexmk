@@ -1,0 +1,13 @@
+# Fdb version 3
+["xdvipdfmx"] 0 "PRETAS.xdv" "PRETAS.pdf" "PRETAS" 0
+  "PRETAS.xdv" 0 -1 0 "xelatex"
+  (generated)
+  "PRETAS.pdf"
+["xelatex"] 1497047520 "PRETAS.tex" "PRETAS.xdv" "PRETAS" 1497047523
+  "/usr/share/texmf-dist/web2c/texmf.cnf" 1492575665 31661 3832dc67fcae1bb0c47594ea86c25797 ""
+  "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1495496277 4105410 32648e27c4f98bc572fcbad77761440e ""
+  "PRETAS.aux" 1497047520 8 a94a2480d3289e625eea47cd1b285758 ""
+  "PRETAS.tex" 1497047519 3880 49dba1300a6fcafaeea2ae1ec21d06cc ""
+  (generated)
+  "PRETAS.log"
+  "PRETAS.xdv"

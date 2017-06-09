@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/Arch Linux) (preloaded format=xelatex 2017.5.22)  9 JUN 2017 19:13
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/Arch Linux) (preloaded format=xelatex 2017.5.22)  9 JUN 2017 19:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1341,57 +1341,57 @@ e .
 \c@endnote=\count296
 \endnotesep=\dimen323
 \@enotes=\write5
-) (./LIVRO.aux
-(./INPUTS.aux) (./PUBLICIDADE.aux))
+)
+(/home/editorial/texmf/tex/penalidades.sty) (./LIVRO.aux (./INPUTS.aux)
+(./PUBLICIDADE.aux))
 \openout1 = `LIVRO.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 11.
-LaTeX Font Info:    Try loading font information for LGR+cmr on input line 11.
-
-(/usr/share/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 18.
+LaTeX Font Info:    Try loading font information for LGR+cmr on input line 18.
+ (/usr/share/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 File: lgrcmr.fd 2016/03/04 v1.1 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 11.
-LaTeX Font Info:    Try loading font information for EU1+lmr on input line 11.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 18.
+LaTeX Font Info:    Try loading font information for EU1+lmr on input line 18.
 
 (/usr/share/texmf-dist/tex/latex/euenc/eu1lmr.fd
 File: eu1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 11.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 11.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 18.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 18.
 
 (/usr/share/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 11.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 18.
 
 (/usr/share/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    ... okay on input line 18.
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
-LaTeX Info: Redefining \dots on input line 11.
-LaTeX Info: Redefining \up on input line 11.
-LaTeX Info: Redefining \microtypecontext on input line 11.
+LaTeX Info: Redefining \dots on input line 18.
+LaTeX Info: Redefining \up on input line 18.
+LaTeX Info: Redefining \microtypecontext on input line 18.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: No adjustment of tracking.
@@ -1408,67 +1408,67 @@ Package microtype Info: Loading generic settings for font family
 .................................................
 \symlegacymaths=\mathgroup7
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 11.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 11.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 11.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 11.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 11.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 11.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 11.
-LaTeX Font Info:    Redeclaring math accent \check on input line 11.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 11.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 11.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 11.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 11.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 11.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 11.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 11.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 11.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 11.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 11.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 11.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 11.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 11.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 11.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 11.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 11.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 11.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 18.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 18.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 18.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 18.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 18.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 18.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 18.
+LaTeX Font Info:    Redeclaring math accent \check on input line 18.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 18.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 18.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 18.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 18.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 18.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 18.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 18.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 18.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 18.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 18.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 18.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 18.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 18.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 18.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 18.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 18.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 18.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 11.
+(Font)              `operators' in the math version `normal' on input line 18.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> TU/LinuxLibertineO(0)/m/n on input line
- 11.
+ 18.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 11.
+(Font)              `operators' in the math version `bold' on input line 18.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/LinuxLibertineO(0)/m/n on input lin
-e 11.
+e 18.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  TU/LinuxLibertineO(0)/m/n --> TU/LinuxLibertineO(0)/m/n
- on input line 11.
+ on input line 18.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> TU/LinuxLibertineO(0)/m/it on input li
-ne 11.
+ne 18.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> TU/LinuxLibertineO(0)/bx/n on input li
-ne 11.
+ne 18.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 11.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 18.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 11.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 18.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/LinuxLibertineO(0)/m/n --> TU/LinuxLibertineO(0)/bx/
-n on input line 11.
+n on input line 18.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> TU/LinuxLibertineO(0)/bx/it on input 
-line 11.
+line 18.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 11.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 18.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 11.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 18.
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 11.
+(lastpage)             ! on input line 18.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: rotating package is loaded.
 Package caption Info: xtab package is loaded.
@@ -1487,9 +1487,9 @@ Unknown feature `expansion=default' in font `Linux Libertine O Semibold'.
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 11.
+(Font)              <7> on input line 18.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 11.
+(Font)              <5> on input line 18.
 
 (/usr/share/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
@@ -1509,7 +1509,7 @@ Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 11.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 18.
 
 (/usr/share/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
@@ -1522,31 +1522,20 @@ Unknown feature `expansion=default' in font `Linux Libertine O Semibold'.
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
 
-Overfull \hbox (3.632pt too wide) in paragraph at lines 1--17
-\TU/LinuxLibertineO(0)/m/n/9 alemão e um dos principais ideólogos do comunismo 
-moderno, atuou
- []
-
-
-Overfull \hbox (0.24205pt too wide) in paragraph at lines 18--31
-[]\TU/LinuxLibertineO(0)/bx/n/9 Friedrich Engels \TU/LinuxLibertineO(0)/m/n/9 (
-Barmen, 1820—Londres, 1895), revolucionário ale-
- []
-
 [4
 
-])
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [5]
-[6] (./LIVRO.toc) [7]
+]
+Unknown feature `protrusion=default' in font `Linux Libertine O'.
+Unknown feature `expansion=default' in font `Linux Libertine O'.
+) [5] [6] [7] (./LIVRO.toc
+Unknown feature `protrusion=default' in font `Linux Libertine O'.
+Unknown feature `expansion=default' in font `Linux Libertine O'.
+Unknown feature `protrusion=default' in font `Linux Libertine O'.
+Unknown feature `expansion=default' in font `Linux Libertine O'.
+) [8]
 \openout2 = `INPUTS.aux'.
 
- (./INPUTS.tex (./INTRODUCAO.tex [8
-
-
-
-]
+ (./INPUTS.tex (./INTRODUCAO.tex
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
@@ -1559,679 +1548,210 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 7.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 7.
- [9]
-Unknown feature `protrusion=default' in font `Linux Libertine O'.
-Unknown feature `expansion=default' in font `Linux Libertine O'.
- [10]
-Overfull \hbox (1.94432pt too wide) in paragraph at lines 71--79
-\TU/LinuxLibertineO(0)/m/n/10.95 enfatizando sua contradição com as relações so
-ciais exis-
- []
+ [9
 
 
-Overfull \hbox (3.4737pt too wide) in paragraph at lines 71--79
-\TU/LinuxLibertineO(0)/m/n/10.95 segundo Marx, apenas preparariam crises “cada 
-vez mais
- []
 
-
-Overfull \vbox (9.25728pt too high) has occurred while \output is active []
+] [10]
+Overfull \vbox (9.30107pt too high) has occurred while \output is active []
 
 
 [11]
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
-Unknown feature `protrusion=default' in font `Linux Libertine O'.
-Unknown feature `expansion=default' in font `Linux Libertine O'.
+ [12] [13] [14]
+Underfull \hbox (badness 1460) in paragraph at lines 187--201
+\TU/LinuxLibertineO(0)/m/n/10.95 prestou-se a uma série de equívocos. No âmbito
 
-Overfull \hbox (3.53767pt too wide) in paragraph at lines 106--113
-[]\TU/LinuxLibertineO(0)/m/n/10.95 Encontramos no \TU/LinuxLibertineO(0)/m/it/1
-0.95 Manifesto \TU/LinuxLibertineO(0)/m/n/10.95 a combinação, quase sem-
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [12]
-Overfull \hbox (1.85677pt too wide) in paragraph at lines 114--122
-\TU/LinuxLibertineO(0)/m/n/10.95 do debate filosófico e intelectual da década d
-e 1840, abor-
- []
-
-
-Overfull \hbox (8.7917pt too wide) in paragraph at lines 123--131
-\TU/LinuxLibertineO(0)/m/n/10.95 disciplinas aparentemente tão díspares — que d
-ificilmente
- []
-
-
-Underfull \vbox (badness 2556) has occurred while \output is active []
-
- [13]
-[14]
-Overfull \hbox (13.1279pt too wide) in paragraph at lines 187--201
-\TU/LinuxLibertineO(0)/m/n/10.95 xismo da Segunda Internacional (1889–1916), tr
-ansformou-
- []
-
-
-Overfull \vbox (14.85735pt too high) has occurred while \output is active []
-
-
-[15]
-Overfull \hbox (22.96469pt too wide) in paragraph at lines 212--235
-\TU/LinuxLibertineO(0)/m/n/10.95 principais: (1) a descoberta da América e a ci
-rcum-navegação
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [16]
-Overfull \hbox (8.55812pt too wide) in paragraph at lines 236--244
-\TU/LinuxLibertineO(0)/m/n/10.95 classes opressoras não sejam suprimidas, dorav
-ante quem
- []
-
-[17]
-Overfull \hbox (0.40143pt too wide) in paragraph at lines 245--251
+[15] [16] [17]
+Underfull \hbox (badness 1448) in paragraph at lines 245--251
 []\TU/LinuxLibertineO(0)/m/n/10.95 A trajetória política da burguesia segue, qu
-ase passo
+ase
  []
 
-
-Overfull \hbox (0.123pt too wide) in paragraph at lines 252--259
-\TU/LinuxLibertineO(0)/m/n/10.95 conjunto da classe burguesa”, em geral contest
-ada como
- []
+[18]
+Overfull \vbox (17.40631pt too high) has occurred while \output is active []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [18]
-Overfull \hbox (11.4635pt too wide) in paragraph at lines 282--297
-\TU/LinuxLibertineO(0)/m/n/10.95 tância da transitoriedade, materializado na fr
-ase-emblema:
- []
-
-
-Overfull \hbox (0.97713pt too wide) in paragraph at lines 282--297
-\TU/LinuxLibertineO(0)/m/n/10.95 século que se estende de 1950 a 1989, o marxis
-mo voltou-
- []
-
-
-Overfull \vbox (18.26613pt too high) has occurred while \output is active []
-
-
-[19]
-Overfull \hbox (1.30025pt too wide) in paragraph at lines 311--317
-[]\TU/LinuxLibertineO(0)/m/n/10.95 Primeiro, Marx descreve a “expansão intensiv
-a”, isto
- []
-
-[20]
-Overfull \hbox (0.30672pt too wide) in paragraph at lines 349--371
-\TU/LinuxLibertineO(0)/m/n/10 configurou, de maneira cosmopolita, a produção e 
-o consumo
- []
-
-
-Overfull \vbox (17.83496pt too high) has occurred while \output is active []
+[19] [20]
+Overfull \vbox (13.35971pt too high) has occurred while \output is active []
 
 
 [21]
-Overfull \vbox (10.1597pt too high) has occurred while \output is active []
+Overfull \vbox (17.35968pt too high) has occurred while \output is active []
 
 
-[22]
-Overfull \hbox (0.37119pt too wide) in paragraph at lines 386--398
-\TU/LinuxLibertineO(0)/m/n/10.95 primeira metade do século \TU/LinuxLibertineO(
-0)/m/sc/10.95 xix\TU/LinuxLibertineO(0)/m/n/10.95 , o surgimento da “grande
- []
-
-[23]
-Overfull \hbox (0.62671pt too wide) in paragraph at lines 411--420
-\TU/LinuxLibertineO(0)/m/n/10.95 zado, “exploração metódica dos antigos mercado
-s”, deve
- []
-
-
-Overfull \hbox (1.81294pt too wide) in paragraph at lines 423--433
-\TU/LinuxLibertineO(0)/m/n/10.95 mente) apenas a um esquema interpretativo míni
-mo que
- []
-
-
-Overfull \hbox (1.31485pt too wide) in paragraph at lines 434--442
-[]\TU/LinuxLibertineO(0)/m/n/10.95 As relações burguesas de produção e de propr
-iedade,
- []
-
-
-Overfull \hbox (5.5055pt too wide) in paragraph at lines 434--442
-\TU/LinuxLibertineO(0)/m/n/10.95 deres subterrâneos que invocou”. Uma contrapro
-va disso
- []
-
-
-Overfull \vbox (8.21748pt too high) has occurred while \output is active []
+[22] [23]
+Overfull \vbox (3.78976pt too high) has occurred while \output is active []
 
 
 [24]
-Overfull \hbox (0.61937pt too wide) in paragraph at lines 443--455
-\TU/LinuxLibertineO(0)/m/n/10.95 vez mais frequentes sublevações do proletariad
-o, seriam
- []
-
-
-Overfull \hbox (2.57455pt too wide) in paragraph at lines 443--455
-\TU/LinuxLibertineO(0)/m/n/10.95 çado de forças produtivas. Cabe acrescentar qu
-e, mesmo
+Underfull \hbox (badness 3128) in paragraph at lines 434--442
+[]\TU/LinuxLibertineO(0)/m/n/10.95 As relações burguesas de produção e de pro-
  []
 
 [25]
-Overfull \hbox (7.42673pt too wide) in paragraph at lines 464--468
-[]\TU/LinuxLibertineO(0)/m/n/10 as armas com as quais a burguesia derruiu o feu
-dalismo voltam-
+Underfull \hbox (badness 1033) in paragraph at lines 485--499
+[]\TU/LinuxLibertineO(0)/m/n/10.95 Em nossos termos, podemos então dizer que a
  []
 
 
-Overfull \hbox (7.7734pt too wide) in paragraph at lines 470--477
-\TU/LinuxLibertineO(0)/m/it/10.95 Manifesto do partido comunista\TU/LinuxLibert
-ineO(0)/m/n/10.95 , Marx determina, de modo
- []
-
-
-Overfull \hbox (3.97737pt too wide) in paragraph at lines 485--499
-\TU/LinuxLibertineO(0)/m/n/10.95 gração) social, enquanto força de trabalho, co
-nsolidando-
+Underfull \hbox (badness 1221) in paragraph at lines 485--499
+\TU/LinuxLibertineO(0)/m/n/10.95 dinâmica da “expansão intensiva”, própria do c
+api-
  []
 
 
 Overfull \vbox (14.85735pt too high) has occurred while \output is active []
 
 
-[26]
-Overfull \hbox (7.1967pt too wide) in paragraph at lines 517--520
-\TU/LinuxLibertineO(0)/m/n/10.95 rie de percalços que moldaram sua formação com
-o agente
- []
-
-[27]
-Overfull \vbox (8.45732pt too high) has occurred while \output is active []
+[26] [27]
+Overfull \vbox (8.50111pt too high) has occurred while \output is active []
 
 
-[28]
-Overfull \hbox (0.97174pt too wide) in paragraph at lines 558--564
-[]\TU/LinuxLibertineO(0)/m/n/10.95 Pode-se considerar que a aposta de Marx, rec
-orrente
- []
-
-[29] [30]
-Overfull \hbox (0.17775pt too wide) in paragraph at lines 593--605
-\TU/LinuxLibertineO(0)/m/n/10.95 Esta tradução do \TU/LinuxLibertineO(0)/m/it/1
-0.95 Manifesto do partido comunista \TU/LinuxLibertineO(0)/m/n/10.95 foi feita
- []
-
-
-Overfull \hbox (4.30591pt too wide) in paragraph at lines 593--605
-\TU/LinuxLibertineO(0)/m/it/10.95 gewählte Schriften in 2 Bänden\TU/LinuxLibert
-ineO(0)/m/n/10.95 , Dietz Verlag, Berlim, 1982
- []
-
-) (./ORIG.tex [31
+[28] [29] [30]) (./ORIG.tex [31
 
 ] [32
 
-]
-Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
-Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 1.
- [33]
-Overfull \hbox (3.57225pt too wide) in paragraph at lines 21--48
-\TU/LinuxLibertineO(0)/m/n/10.95 últimos 25 anos, os princípios gerais desenvol
-vidos neste
- []
+] [33] [34] [35
 
-[34] [35] [36
+] [36] [37] [38
 
-]
-Overfull \hbox (0.88586pt too wide) in paragraph at lines 62--69
-\TU/LinuxLibertineO(0)/m/n/10.95 a qualquer outro — Marx descansa no cemitério 
-de High-
- []
+] [39]
+[40]
+Overfull \vbox (17.08824pt too high) has occurred while \output is active []
 
 
-Overfull \hbox (0.90408pt too wide) in paragraph at lines 62--69
-\TU/LinuxLibertineO(0)/m/n/10.95 mais necessário registrar aqui expressamente, 
-mais uma
- []
-
-[37] [38]
-Overfull \hbox (2.45003pt too wide) in paragraph at lines 123--135
-[]\TU/LinuxLibertineO(0)/m/n/10 Quão limitado era o espaço ocupado então (dezem
-bro de 1847)
- []
-
-
-Overfull \vbox (11.08824pt too high) has occurred while \output is active []
-
-
-[39
+[41
 
 ]
 Overfull \vbox (15.4798pt too high) has occurred while \output is active []
 
 
-[40]
-Overfull \hbox (12.69188pt too wide) in paragraph at lines 186--188
-[]\TU/LinuxLibertineO(0)/m/n/10.95 Uma nova tradução polonesa apareceu por essa
- mesma
- []
-
-
-Overfull \hbox (4.43558pt too wide) in paragraph at lines 189--197
-[]\TU/LinuxLibertineO(0)/m/n/10.95 Além disso, surgiu uma nova tradução dinamar
-quesa
- []
-
-
-Overfull \vbox (9.8035pt too high) has occurred while \output is active []
-
-
-[41]
+[42] [43]
 Unknown feature `protrusion=default' in font `Linux Libertine O Semibold'.
 Unknown feature `expansion=default' in font `Linux Libertine O Semibold'.
- [42]
+ [44]
 Overfull \vbox (11.46223pt too high) has occurred while \output is active []
 
 
-[43] [44] [45] [46]
-Unknown feature `protrusion=default' in font `Linux Libertine O'.
-Unknown feature `expansion=default' in font `Linux Libertine O'.
+[45] [46] [47] [48] [49
 
-Overfull \hbox (0.82747pt too wide) in paragraph at lines 350--368
-\TU/LinuxLibertineO(0)/m/n/10.95 objetivos, as suas tendências, e de contrapore
-m ao conto
- []
-
-
-Overfull \vbox (13.213pt too high) has occurred while \output is active []
-
-
-[47
-
-] [48]
-Overfull \vbox (10.4023pt too high) has occurred while \output is active []
-
-
-[49]
-Overfull \hbox (5.20561pt too wide) in paragraph at lines 431--447
-\TU/LinuxLibertineO(0)/m/n/10.95 das paliçadas,[] que habitavam as primeiras ci
-dades; deste
- []
-
-
-Overfull \vbox (14.66225pt too high) has occurred while \output is active []
-
-
-[50]
-Overfull \vbox (20.46223pt too high) has occurred while \output is active []
-
-
-[51]
-Overfull \hbox (3.13985pt too wide) in paragraph at lines 487--491
-[]\TU/LinuxLibertineO(0)/m/n/10.95 Vemos, portanto, como a própria burguesia mo
-derna
- []
-
-
-Overfull \vbox (19.26228pt too high) has occurred while \output is active []
+] [50] [51]
+Overfull \vbox (17.26225pt too high) has occurred while \output is active []
 
 
 [52]
-Overfull \hbox (3.02838pt too wide) in paragraph at lines 513--526
-\TU/LinuxLibertineO(0)/m/n/10.95 ou valorosamente conquistadas, colocou \TU/Lin
-uxLibertineO(0)/m/it/10.95 uma \TU/LinuxLibertineO(0)/m/n/10.95 única ines-
- []
+Overfull \vbox (4.26222pt too high) has occurred while \output is active []
 
 
-Overfull \vbox (14.10603pt too high) has occurred while \output is active []
+[53]
+Overfull \vbox (8.26225pt too high) has occurred while \output is active []
 
 
-[53] [54]
-Overfull \hbox (5.01765pt too wide) in paragraph at lines 577--581
-\TU/LinuxLibertineO(0)/m/n/10.95 estabelecer-se por toda parte, construir víncu
-los por toda
- []
+[54]
+Overfull \vbox (11.50603pt too high) has occurred while \output is active []
 
 
-Overfull \vbox (10.10597pt too high) has occurred while \output is active []
-
-
-[55]
-Overfull \vbox (17.44228pt too high) has occurred while \output is active []
-
-
-[56]
-Overfull \vbox (20.50603pt too high) has occurred while \output is active []
+[55] [56]
+Overfull \vbox (10.06218pt too high) has occurred while \output is active []
 
 
 [57]
-Overfull \hbox (2.62326pt too wide) in paragraph at lines 657--666
-\TU/LinuxLibertineO(0)/m/n/10.95 culo, a burguesia criou forças produtivas em m
-assa, mais
- []
+Overfull \vbox (14.2423pt too high) has occurred while \output is active []
 
-[58] [59] [60]
-Overfull \hbox (0.13498pt too wide) in paragraph at lines 748--758
+
+[58]
+Overfull \vbox (17.86223pt too high) has occurred while \output is active []
+
+
+[59] [60] [61] [62]
+Overfull \hbox (0.13498pt too wide) in paragraph at lines 752--762
 []\TU/LinuxLibertineO(0)/m/n/10.95 A indústria moderna transformou a pequena of
 icina
  []
 
 
-Overfull \hbox (2.11594pt too wide) in paragraph at lines 748--758
-\TU/LinuxLibertineO(0)/m/n/10.95 dos pela máquina, pelo supervisor e, sobretudo
-, por cada
- []
-
-
-Overfull \hbox (1.8604pt too wide) in paragraph at lines 748--758
-\TU/LinuxLibertineO(0)/m/n/10.95 mais mesquinho, odioso, encarniçado, quanto ma
-is aber-
- []
-
-
 Overfull \vbox (13.46227pt too high) has occurred while \output is active []
 
 
-[61] [62]
-Overfull \hbox (1.82388pt too wide) in paragraph at lines 784--792
-\TU/LinuxLibertineO(0)/m/n/10.95 trangeiras concorrentes, destroçam as máquinas
-, ateiam
- []
-
-
-Overfull \hbox (7.69676pt too wide) in paragraph at lines 805--822
-\TU/LinuxLibertineO(0)/m/n/10.95 parte, comprime o salário para um nível igualm
-ente baixo.
- []
-
-[63] [64]
-Overfull \vbox (19.26228pt too high) has occurred while \output is active []
-
-
-[65]
-Overfull \hbox (0.55202pt too wide) in paragraph at lines 879--888
-[]\TU/LinuxLibertineO(0)/m/n/10.95 Os estratos médios, o pequeno industrial, o 
-pequeno
- []
-
-[66] [67]
-Overfull \hbox (0.82385pt too wide) in paragraph at lines 926--931
-\TU/LinuxLibertineO(0)/m/n/10.95 nos oculta no interior da sociedade em vigor, 
-até o ponto
- []
-
-
-Overfull \hbox (7.8374pt too wide) in paragraph at lines 932--960
-[]\TU/LinuxLibertineO(0)/m/n/10.95 Toda a sociedade até hoje existente assentou
--se, como
- []
-
-
-Overfull \hbox (1.8093pt too wide) in paragraph at lines 932--960
-\TU/LinuxLibertineO(0)/m/n/10.95 de permanecer por mais tempo como a classe dom
-inante
- []
-
-
-Overfull \vbox (8.86223pt too high) has occurred while \output is active []
-
-
-[68]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [69]
-Overfull \hbox (5.09256pt too wide) in paragraph at lines 984--986
-[]\TU/LinuxLibertineO(0)/m/n/10.95 Eles não sustentam princípios particulares, 
-de acordo
- []
-
-[70]
-Overfull \hbox (13.76547pt too wide) in paragraph at lines 1035--1040
-\TU/LinuxLibertineO(0)/m/n/10.95 do mérito! Vocês estão falando da propriedade 
-do pequeno-
- []
-
-[71]
-Overfull \hbox (2.99188pt too wide) in paragraph at lines 1051--1056
-\TU/LinuxLibertineO(0)/m/n/10.95 sição meramente pessoal na produção, mas també
-m uma
- []
-
-[72] [73]
-Overfull \hbox (3.64162pt too wide) in paragraph at lines 1114--1119
-\TU/LinuxLibertineO(0)/m/n/10.95 mais ser transformado em capital, em dinheiro,
- em renda
- []
-
-
-Overfull \hbox (16.85565pt too wide) in paragraph at lines 1124--1127
-[]\TU/LinuxLibertineO(0)/m/n/10.95 O comunismo não tira de ninguém o poder de a
-propriar-
- []
-
-[74] [75]
-Overfull \hbox (11.3876pt too wide) in paragraph at lines 1164--1166
-[]\TU/LinuxLibertineO(0)/m/n/10.95 Supressão da família! Mesmo os mais radicais
- exaltam-
- []
-
-[76]
-Overfull \hbox (6.01405pt too wide) in paragraph at lines 1212--1216
-\TU/LinuxLibertineO(0)/m/n/10.95 para não falar da prostituição oficial, encont
-ram supremo
- []
-
-[77]
-Overfull \hbox (0.88687pt too wide) in paragraph at lines 1241--1244
-[]\TU/LinuxLibertineO(0)/m/n/10.95 O domínio do proletariado os fará desaparece
-r ainda
- []
-
-
-Overfull \hbox (4.82976pt too wide) in paragraph at lines 1251--1254
-[]\TU/LinuxLibertineO(0)/m/n/10.95 As acusações contra o comunismo levantadas d
-e pon-
- []
-
-
+[63] [64] [65] [66]
 Overfull \vbox (10.86226pt too high) has occurred while \output is active []
 
 
-[78]
-Overfull \hbox (0.43326pt too wide) in paragraph at lines 1279--1283
-\TU/LinuxLibertineO(0)/m/n/10.95 cas, políticas, jurídicas etc. modificam-se, e
-ntretanto, no
+[67]
+Overfull \vbox (9.7563pt too high) has occurred while \output is active []
+
+
+[68] [69] [70]
+Overfull \vbox (8.48993pt too high) has occurred while \output is active []
+
+
+[71]
+Underfull \hbox (badness 3108) in paragraph at lines 988--990
+[]\TU/LinuxLibertineO(0)/m/n/10.95 Eles não sustentam princípios particulares, 
+de
  []
 
-[79]
-Overfull \hbox (4.79501pt too wide) in paragraph at lines 1309--1312
-\TU/LinuxLibertineO(0)/m/n/10.95 operária é a elevação do proletariado à condiç
-ão de classe
+[72] [73] [74] [75] [76] [77] [78] [79] [80]
+Underfull \hbox (badness 1466) in paragraph at lines 1245--1248
+[]\TU/LinuxLibertineO(0)/m/n/10.95 O domínio do proletariado os fará desaparece
+r
  []
 
-
-Overfull \hbox (0.7508pt too wide) in paragraph at lines 1313--1318
-\TU/LinuxLibertineO(0)/m/n/10.95 centralizar todos os instrumentos de produção 
-nas mãos
+[81] [82]
+Underfull \hbox (badness 1478) in paragraph at lines 1317--1322
+[]\TU/LinuxLibertineO(0)/m/n/10.95 O proletariado utilizará o seu domínio polít
+ico
  []
-
-
-Overfull \hbox (3.30217pt too wide) in paragraph at lines 1313--1318
-\TU/LinuxLibertineO(0)/m/n/10.95 do Estado, isto é, do proletariado organizado 
-como classe
- []
-
-[80]
-Overfull \hbox (16.51343pt too wide) in paragraph at lines 1326--1328
-[]\TU/LinuxLibertineO(0)/m/n/10.95 Naturalmente, essas medidas serão diferentes
- de acordo
- []
-
-
-Overfull \hbox (1.19604pt too wide) in paragraph at lines 1333--1335
-[]\TU/LinuxLibertineO(0)/m/n/10.95 Expropriação da propriedade fundiária e empr
-ego
- []
-
-[81]
-Overfull \hbox (3.26195pt too wide) in paragraph at lines 1351--1353
-\TU/LinuxLibertineO(0)/m/n/10.95 tuição de exércitos industriais, especialmente
- para
- []
-
-
-Overfull \hbox (0.61943pt too wide) in paragraph at lines 1362--1373
-\TU/LinuxLibertineO(0)/m/n/10.95 próprio é o poder organizado de uma classe par
-a a opres-
- []
-
-[82]
-Unknown feature `protrusion=default' in font `Linux Libertine O'.
-Unknown feature `expansion=default' in font `Linux Libertine O'.
-Unknown feature `protrusion=default' in font `Linux Libertine O Semibold'.
-Unknown feature `expansion=default' in font `Linux Libertine O Semibold'.
-
-Overfull \vbox (14.60939pt too high) has occurred while \output is active []
-
 
 [83]
-Overfull \vbox (8.90602pt too high) has occurred while \output is active []
-
+Underfull \hbox (badness 1796) in paragraph at lines 1337--1339
+[]\TU/LinuxLibertineO(0)/m/n/10.95 Expropriação da propriedade fundiária e em-
+ []
 
 [84]
-Overfull \vbox (14.66225pt too high) has occurred while \output is active []
+Unknown feature `protrusion=default' in font `Linux Libertine O'.
+Unknown feature `expansion=default' in font `Linux Libertine O'.
+ [85] [86]
+Overfull \vbox (8.86223pt too high) has occurred while \output is active []
 
-
-[85]
-Overfull \hbox (6.42442pt too wide) in paragraph at lines 1468--1476
-\TU/LinuxLibertineO(0)/m/n/10.95 pereceram na moderna sociedade burguesa. O est
-amento
- []
-
-
-Overfull \hbox (3.5126pt too wide) in paragraph at lines 1468--1476
-\TU/LinuxLibertineO(0)/m/n/10.95 derna burguesia. Nos países industrial e comer
-cialmente
- []
-
-
-Overfull \hbox (10.89049pt too wide) in paragraph at lines 1477--1487
-\TU/LinuxLibertineO(0)/m/n/10.95 volveu, formou-se uma nova classe de pequeno-b
-urgueses,
- []
-
-
-Overfull \hbox (21.76382pt too wide) in paragraph at lines 1488--1496
-\TU/LinuxLibertineO(0)/m/n/10.95 Constituiu-se, dessa maneira, o socialismo peq
-ueno-burguês.
- []
-
-
-Overfull \vbox (21.3503pt too high) has occurred while \output is active []
-
-
-[86]
-Overfull \hbox (1.88959pt too wide) in paragraph at lines 1497--1507
-\TU/LinuxLibertineO(0)/m/n/10.95 as contradições existentes nas modernas relaçõ
-es de pro-
- []
 
 [87]
-Overfull \hbox (24.3244pt too wide) in paragraph at lines 1531--1544
-[]\TU/LinuxLibertineO(0)/m/n/10.95 Filósofos alemães, semifilósofos e beletrist
-as apoderaram-
- []
+Overfull \vbox (12.22601pt too high) has occurred while \output is active []
 
 
-Overfull \hbox (1.94434pt too wide) in paragraph at lines 1531--1544
-\TU/LinuxLibertineO(0)/m/n/10.95 a literatura francesa perdeu todo significado 
-prático ime-
- []
-
-
-Overfull \vbox (16.3303pt too high) has occurred while \output is active []
-
-
-[88] [89] [90]
-Overfull \vbox (8.26225pt too high) has occurred while \output is active []
-
-
-[91]
-Overfull \hbox (4.53415pt too wide) in paragraph at lines 1661--1672
-[]\TU/LinuxLibertineO(0)/m/n/10.95 Os burgueses socialistas querem as condições
- de vida
- []
-
-
-Overfull \vbox (6.9158pt too high) has occurred while \output is active []
-
-
-[92] [93]
-Overfull \hbox (0.38216pt too wide) in paragraph at lines 1704--1713
-\TU/LinuxLibertineO(0)/m/n/10.95 de fazer valer seu próprio interesse de classe
- num tempo
- []
-
-[94]
+[88]
 Overfull \vbox (13.46227pt too high) has occurred while \output is active []
 
 
-[95]
-Overfull \hbox (2.90794pt too wide) in paragraph at lines 1754--1758
-\TU/LinuxLibertineO(0)/m/n/10.95 evangelho social através de pequenos experimen
-tos, que
+[89] [90]
+Underfull \hbox (badness 10000) in paragraph at lines 1535--1548
+[]\TU/LinuxLibertineO(0)/m/n/10.95 Filósofos alemães, semifilósofos e beletrist
+as
  []
 
-[96]
-Overfull \vbox (8.86226pt too high) has occurred while \output is active []
+[91] [92] [93]
+Overfull \vbox (8.26225pt too high) has occurred while \output is active []
 
 
-[97]
-Overfull \vbox (12.08597pt too high) has occurred while \output is active []
-
-
-[98]
-Overfull \hbox (2.87144pt too wide) in paragraph at lines 1838--1841
-\TU/LinuxLibertineO(0)/m/n/10.95 tórios, em parte socialistas democráticos no s
-entido fran-
+[94] [95] [96]
+Underfull \hbox (badness 1112) in paragraph at lines 1708--1717
+[]\TU/LinuxLibertineO(0)/m/n/10.95 As primeiras tentativas do proletariado no s
+en-
  []
 
-
-Overfull \hbox (6.95213pt too wide) in paragraph at lines 1851--1857
-\TU/LinuxLibertineO(0)/m/n/10.95 condições sociais e políticas, produzidas nece
-ssariamente
- []
+[97] [98] [99] [100] [101] [102]
+Overfull \vbox (8.26225pt too high) has occurred while \output is active []
 
 
-Overfull \vbox (17.30605pt too high) has occurred while \output is active []
-
-
-[99]
-Overfull \hbox (2.97195pt too wide) in paragraph at lines 1866--1868
-[]\TU/LinuxLibertineO(0)/m/n/10.95 Os comunistas, numa palavra, apoiam por toda
- parte
- []
-
-)) [100] 
+[103])) [104] 
 AED: lastpage setting LastPage
 \openout2 = `PUBLICIDADE.aux'.
 
-(/home/editorial/texmf/tex/PUBLICIDADE.tex [101
+(/home/editorial/texmf/tex/PUBLICIDADE.tex [105
 
 
 
@@ -2240,17 +1760,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--8
 
  []
 
-[102]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [103]
+[106] [107]
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [104]
-[105]) [106
+ [108] [109]) [110
 
 
 ]
@@ -2259,12 +1772,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  (./LIVRO.aux (./INPUTS.aux) (./PUBLICIDADE.aux)) ) 
 Here is how much of TeX's memory you used:
- 25423 strings out of 493068
- 461143 string characters out of 6141028
- 679703 words of memory out of 5000000
- 28870 multiletter control sequences out of 15000+600000
- 17263 words of font info for 94 fonts, out of 8000000 for 9000
+ 25413 strings out of 493068
+ 460733 string characters out of 6141028
+ 680706 words of memory out of 5000000
+ 28862 multiletter control sequences out of 15000+600000
+ 15414 words of font info for 86 fonts, out of 8000000 for 9000
  1371 hyphenation exceptions out of 8191
- 54i,14n,88p,10345b,486s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 54i,14n,88p,10345b,488s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on LIVRO.xdv (106 pages, 1620388 bytes).
+Output written on LIVRO.xdv (110 pages, 1639936 bytes).

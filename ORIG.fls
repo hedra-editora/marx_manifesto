@@ -1,0 +1,6 @@
+PWD /home/editorial/Dropbox/LATEX/git/marx_manifesto
+INPUT /usr/share/texmf-dist/web2c/texmf.cnf
+INPUT /var/lib/texmf/web2c/xetex/xelatex.fmt
+INPUT ORIG.tex
+OUTPUT ORIG.log
+OUTPUT ORIG.xdv

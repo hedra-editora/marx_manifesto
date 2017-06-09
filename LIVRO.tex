@@ -8,6 +8,13 @@
 
 \renewcommand{\asterisc}{{\centering\adforn{47}\par}}
 
+\makeatletter
+\def\notesname{Notas}%
+\def\enoteheading{\chapter{\notesname
+  \@mkboth{\MakeLowercase{\textsc{\notesname}}}{\MakeLowercase{\textsc{\notesname}}}}%
+  \mbox{}\par\vskip-\baselineskip}
+\makeatother
+
 \begin{document}
 
 %\include{TESTE}

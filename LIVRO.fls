@@ -235,6 +235,8 @@ INPUT gitrevisioninfo.sty
 INPUT gitrevisioninfo.sty
 INPUT /usr/share/texmf-dist/tex/latex/endnotes/endnotes.sty
 INPUT /usr/share/texmf-dist/tex/latex/endnotes/endnotes.sty
+INPUT /home/editorial/texmf/tex/penalidades.sty
+INPUT /home/editorial/texmf/tex/penalidades.sty
 INPUT LIVRO.aux
 INPUT LIVRO.aux
 INPUT INPUTS.aux
@@ -300,12 +302,6 @@ INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmmib10.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmbsy10.tfm
 INPUT ORIG.tex
 INPUT ORIG.tex
-INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
-INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
-INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmmib10.tfm
-INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmbsy10.tfm
-INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 OUTPUT PUBLICIDADE.aux
 INPUT /home/editorial/texmf/tex/PUBLICIDADE.tex
 INPUT /home/editorial/texmf/tex/PUBLICIDADE.tex
