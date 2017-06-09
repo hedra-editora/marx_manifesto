@@ -1,0 +1,21 @@
+\select@language {brazilian}
+\select@language {brazilian}
+\contentsline {chapter}{Introdu\IeC {\c c}\IeC {\~a}o, por Ricardo Musse}{9}
+\contentsline {chapter}{Notas\markboth {\MakeLowercase {\textsc {Notas}}}{\MakeLowercase {\textsc {Notas}}}}{32}
+\contentsline {chapter}{Nota do tradutor}{33}
+\contentsline {part}{\MakeTextLowercase {Manifesto comunista}}{35}
+\contentsline {chapter}{Pref\IeC {\'a}cio \IeC {\`a} edi\IeC {\c c}\IeC {\~a}o alem\IeC {\~a} de 1872}{37}
+\contentsline {chapter}{Pref\IeC {\'a}cio \IeC {\`a} edi\IeC {\c c}\IeC {\~a}o alem\IeC {\~a} de 1883}{41}
+\contentsline {chapter}{Pref\IeC {\'a}cio \IeC {\`a} edi\IeC {\c c}\IeC {\~a}o alem\IeC {\~a} de 1890}{43}
+\contentsline {chapter}{Manifesto do Partido Comunista}{51}
+\contentsline {section}{\numberline {I}Burgueses e prolet\IeC {\'a}rios}{52}
+\contentsline {section}{\numberline {II}Prolet\IeC {\'a}rios e comunistas}{71}
+\contentsline {section}{\numberline {III}Literatura socialista e comunista}{86}
+\contentsline {paragraph}{O socialismo reacion\IeC {\'a}rio}{86}
+\contentsline {paragraph}{\numberline {a.}O socialismo feudal}{86}
+\contentsline {paragraph}{\numberline {b.}O socialismo pequeno"-burgu\IeC {\^e}s}{88}
+\contentsline {paragraph}{\numberline {c.}O socialismo alem\IeC {\~a}o ou \IeC {\textquotedblleft }verdadeiro\IeC {\textquotedblright }}{90}
+\contentsline {paragraph}{O socialismo conservador ou burgu\IeC {\^e}s}{95}
+\contentsline {paragraph}{O socialismo e o comunismo cr\IeC {\'\i }tico"-ut\IeC {\'o}picos}{96}
+\contentsline {section}{\numberline {IV}Posi\IeC {\c c}\IeC {\~a}o dos comunistas em rela\IeC {\c c}\IeC {\~a}o aos diversos partidos oposicionistas}{101}
+\contentsline {chapter}{Notas\markboth {\MakeLowercase {\textsc {Notas}}}{\MakeLowercase {\textsc {Notas}}}}{104}

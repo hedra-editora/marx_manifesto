@@ -1,0 +1,2 @@
+1. use o mogrify para converter a imagem.
+	mogrify -resize 300 capa.png
