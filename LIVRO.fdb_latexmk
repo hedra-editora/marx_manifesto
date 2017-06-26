@@ -1,9 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1498500982 "LIVRO.xdv" "LIVRO.pdf" "LIVRO" 1498500984
-  "LIVRO.xdv" 1498500981 1694084 c567b323c7c884a16f78667761851f84 "xelatex"
+["xdvipdfmx"] 1498501079 "LIVRO.xdv" "LIVRO.pdf" "LIVRO" 1498501082
+  "LIVRO.xdv" 1498501079 1694084 12761c035768251d695b13b615c578d7 "xelatex"
   (generated)
   "LIVRO.pdf"
-["xelatex"] 1498500973 "LIVRO.tex" "LIVRO.xdv" "LIVRO" 1498500984
+["xelatex"] 1498501066 "LIVRO.tex" "LIVRO.xdv" "LIVRO" 1498501082
   "/home/editorial/texmf/tex/PUBLICIDADE.tex" 1497464957 10164 0466b6226dfbf50ff1333bf22a7d75c7 ""
   "/home/editorial/texmf/tex/aparatos.sty" 1492710433 909 136995c661119a9437b5451e77fe6935 ""
   "/home/editorial/texmf/tex/commands.sty" 1492710433 0 d41d8cd98f00b204e9800998ecf8427e ""
@@ -158,21 +158,21 @@
   "/usr/share/texmf-dist/tex/xelatex/xunicode/xunicode.sty" 1492575653 205722 8027ed7ab2230086d647802c25f3ee42 ""
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1492575665 31661 3832dc67fcae1bb0c47594ea86c25797 ""
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1495496277 4105410 32648e27c4f98bc572fcbad77761440e ""
-  "INPUTS.aux" 1498500981 4374 40560241a6421e11a2eb5fa8036bf1c2 ""
+  "INPUTS.aux" 1498501078 4374 40560241a6421e11a2eb5fa8036bf1c2 ""
   "INPUTS.tex" 1497045621 32 4dd806b182f9b1aa48179d2885ae515f ""
   "INTRODUCAO.tex" 1498500970 36840 55d5f7bb8d3a2ea16e7d29cc543150e7 ""
-  "LIVRO.aux" 1498500981 501 88020d09c8f91d192cfe35cf3c906640 ""
+  "LIVRO.aux" 1498501079 501 88020d09c8f91d192cfe35cf3c906640 ""
   "LIVRO.tex" 1498499412 509 4443ee65ba7abde126ef005df15cdb44 ""
-  "LIVRO.toc" 1498500981 1639 57a015d2a0c9cde4a90cdf0c498e3a2a ""
+  "LIVRO.toc" 1498501079 1639 57a015d2a0c9cde4a90cdf0c498e3a2a ""
   "ORIG.tex" 1497048288 107161 81779fb94c3c3376603787937c6a0a3a ""
   "PRETAS.tex" 1497047794 3914 0e0e8136b9b48c21281fa83df7a114be ""
-  "PUBLICIDADE.aux" 1498500981 2075 6b134e5629b1efd60e936c9593987b34 ""
+  "PUBLICIDADE.aux" 1498501079 2075 6b134e5629b1efd60e936c9593987b34 ""
   "fichatecnica.sty" 1497047195 2068 400a608c56a1d8b73970965964d94302 ""
-  "gitrevisioninfo.sty" 1498500972 35 d0f64c61610f2df04012503541a1e677 ""
+  "gitrevisioninfo.sty" 1498501064 35 0678e2aeeaae6d9d69b55eb60ae5c858 ""
   (generated)
   "INPUTS.aux"
   "LIVRO.xdv"
-  "LIVRO.toc"
-  "LIVRO.aux"
   "PUBLICIDADE.aux"
   "LIVRO.log"
+  "LIVRO.toc"
+  "LIVRO.aux"

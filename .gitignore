@@ -1,9 +1,10 @@
-*.html
-*.haux
-*.htoc
+*~
+*.docx
+*.swp
 *.log
 *.aux
 *.toc
+*.pdf
 *.idx
 *.ind
 *.ilg
@@ -22,4 +23,9 @@
 *.tmp 
 *.idv 
 *.opf
-*.swp
+gitrevisioninfo.sty
+img/
+originais/
+original/
+capa/
+LIVRO.pdf
