@@ -1,4 +1,4 @@
-TITULO = "MI_TRANS_PASSARO_MIOLO"
+TITULO = "MARX_MANIFESTO"
 GIT = `git log -1 --date=short --format=format:'%h'`
 
 all:

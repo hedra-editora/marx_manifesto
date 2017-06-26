@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/Arch Linux) (preloaded format=xelatex 2017.5.22)  9 JUN 2017 19:45
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/Arch Linux) (preloaded format=xelatex 2017.5.22)  26 JUN 2017 14:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -346,7 +346,7 @@ Stock height and width: 845.04684pt by 597.50787pt
 Top and edge trims: 56.9055pt and 137.99586pt
 Page height and width: 497.92322pt by 321.51613pt
 Text height and width: 419.00018pt by 244pt
-Spine and edge margins: 39.58745pt and 37.23499pt
+Spine and edge margins: 42.684pt and 34.13843pt
 Upper and lower margins: 30.34973pt and 48.5733pt
 Headheight and headsep: 13.6pt and 5pt
 Footskip: 27.46295pt
@@ -1477,6 +1477,10 @@ Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
+Package microtype Info: Loading generic settings for font family
+(microtype)             `lmtt' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
  [1
 
 ]
@@ -1755,15 +1759,11 @@ AED: lastpage setting LastPage
 
 
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 6--8
-
- []
-
-[106] [107]
+] [106] [107]
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
- [108] [109]) [110
+ [108] [109])
+[110
 
 
 ]
@@ -1772,12 +1772,12 @@ Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
 
  (./LIVRO.aux (./INPUTS.aux) (./PUBLICIDADE.aux)) ) 
 Here is how much of TeX's memory you used:
- 25413 strings out of 493068
- 460733 string characters out of 6141028
- 680706 words of memory out of 5000000
- 28862 multiletter control sequences out of 15000+600000
- 15414 words of font info for 86 fonts, out of 8000000 for 9000
+ 25431 strings out of 493068
+ 461062 string characters out of 6141028
+ 681043 words of memory out of 5000000
+ 28872 multiletter control sequences out of 15000+600000
+ 15454 words of font info for 91 fonts, out of 8000000 for 9000
  1371 hyphenation exceptions out of 8191
- 54i,14n,88p,10345b,488s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 54i,12n,88p,10345b,488s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on LIVRO.xdv (110 pages, 1639936 bytes).
+Output written on LIVRO.xdv (110 pages, 1695956 bytes).

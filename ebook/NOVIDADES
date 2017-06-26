@@ -1,0 +1,132 @@
+AVISOS
+	- Criei o arquivo script.pl para testar rotinas em perl. Ainda não estão valendo!
+	- A pasta \template passa a ser apenas de arquivos fundamentais para a edição hedrabolso. 
+	  Os outros arquivos .sty e .cls foram transferidos para \latex\extras\hedrapackages:
+	  	hedraendnotes.sty
+		hedraindex.sty
+		hedralogo.sty
+		hedrasides.sty
+	- Não vamos mais usar as pastas \trunk e \tag. Ficaram obsoletas.
+	- Não existe mais a opção "mataviúvas". 
+	- Não é preciso colocar mais "~" em, por exemplo, "Sr.~" em notas de rodapé.
+	- Para colocar o título do livro/autor no cabeço, usar \pagestyle{part} em AUTOR.tex
+	- Não é preciso mais \noindent no primeiro parágrafo em abertura de capítulo.
+	- Criamos pacotes para teatro; sem documentação. 
+
+RECOMENDAÇÕES E MOD. NOS .tex PADRÕES
+	- FINAIS.tex Desmembrei em FINAIS e PUBLICIDADE, para facilitar atualização das páginas finais
+	  	com a lista de livros publicados. Além disso, fixei tamanho da 
+	  	fonte para ficar independente do tamanho de fonte adotado no livro. (Dez/08)
+	- TEMPLATE.tex Abandonei as dicas do Roberto sobre como equilibrar a mancha de texto. 
+	  Voltamos a equilibrar e fechar cadernos variando \baselineskip e \fontsize. (Dez/08)
+	- Usar o pacote enumerate.sty para enumerações. Ver documentação.
+	- Colocar o nome do autor ou nomes estrangeiros muito citados em \hyphenation, em AUTOR.tex
+	- Lembrar de apagar todos os pacotes não utilizados do projeto.
+	- Colocar quebra de hifenização (\hyphenation) dentro do pacote hedraextra.sty (25/ago J.)
+
+MODIFICAÇÕES RECENTES (Versões)
+	- [hedraextra,hedrabolsolayout] Passei o \hedramarkboth para hedraextra. [Jorge 13/5/2010]
+	- [hedrabook, hedraextra] Correção do comando \footnoteInSection, agora funciona dentro de \section [Oliveira 7/5/2010]
+	- [hedrabook] Ativei um padrão para subsection J. 29/Abr
+	- [hedraextra] Criei o comando \versal para facilitar números romanos em versalete.
+	- [hedraextra] Criei o \versal, que coloca o \textsc e já abaixa as caixas. [12/04/10, J.]
+	- [hedrasides] Criamos o ambiente \begin{castgroup}[nome do grupo].  [09/11/2009, J.]
+	- [hedratoc] Criei a opção chapterdot para colocar pontinhos na diagramação no peso de chapter. [29/11/09 J.]
+	- [hedraextra] Criei um pequeno comando para quebrar versos na unha. Sintaxe: \qb{verso poema...}\\
+	- [hedrabook] Acertamos que número de nota sempre vai em \normalfont, para não se contaminar
+	  	      pelo estilo do parágrafo. [J. 14/10/09]
+	- [hedrabook] Criei a opcao "autores" para alterar a preta. J. [27/09/09].
+	- [hedrabook] Criamos eu e o Bruno Ol. o comando noendpart comando para anular a página branca depois de \part{}. [24/09/09 j.]
+	- [hedraextra] Criei o comando "- para ativar a translineação da Nova Ortografia. [21/09/09]
+  	- [hedraextra] Rotina que conta o número de páginas. Está imbutida no comando da ficha catalográfica. [18/09/09] 
+ 	- [hedraextra] Acrescentando comando \footnoteInSection para notas em capítulos e seções. Norma #1452. 
+	- [hedraextra] Eliminando bug que gerava espaço grande entre parágrafos no ambiente "hedraquote". [04/08/09]
+	- [hedrabolsolayout] Resolvi o problema dos tracinhos que caíam no título das páginas pretas. [24/07/09]
+	- [hedraextra] Incluí o comando \fichacatalografica{}, que tem sete variáveis e está de 
+	  	       acordo com a ficha fornecida pela Infothes. Favor verif. TEMPLATE.tex 
+		       para saber como operar. [12/06/09]
+	- [hedrabook] Resolvi colocar a função \MakeTextLowercase em \part para não nos preocuparmos 
+	  	      mais com isso no sumário. [20/05/09]
+	- [hedraextra] Incluí o comando \hedrashorttoc que acerta o número da página do índice no sumário. [06/05/09]
+	- [hedrabook] Resolvi um bug que impedia a ativação de opções do book. Por default os livros estavam
+	  	      sendo produzidos com 10pt! [J. 06/05/09]
+	- [hedratoc] Acertei a medida para "section" numerada. Ficou talvez um problema quanto ao paragraph.
+	- [hedratoc] Eliminamos o cabeço do sumário.
+	- [hedrabolsolayout] Implementamos duas opções: "autora" e "noauthor" para mexer no na primeira e terceira página.
+	- [hedrabook] Criei a opção largetext em hedrabook.cls (25/03/09).
+	- [hedrasides] Criei duas opções para o pacote: shrkink, que aperta o texto, e 
+	  	       siderepl, que coloca as entradas na lateral. Criei um comando \siderepl, caso 
+		       se queira usá-lo separadamente, no lugar do fala. Ver arturazevedo. (25/01/09).
+	- [hedrabook] Mudei a cola entre parágrafos, que estava apresentando problemas. (21/1/09)
+	- [checklist]	Abandonamos o pacote checklist. Não se mostrou útil. É preciso pensar em outra solução. (27/12/08)
+	- [hedrabook] v. 2.2	 Passamos a usar o pacote geometry.sty para redimensionar a página. Além disso, 
+	  		 	 Acertamos a cola entre parágrafos para regular a mancha de texto. Com isso, podemos 
+			     	 ter opções que regulem o formato do livro para outras coleções, como por exemplo, 
+			     	 bibliocordel, ficção... (Dez/08)
+	- [hedrasides] Criamos o pacote hedrasides a partir da classe sides.cls para diagramação de teatro. Com isso
+	  	       abandonamos o hedrateadro.sty (ex-plari)
+	- [hedraextra] Criei o comando \subtitulo{} que serve para colocar subtitulos dentro de 
+	  	       do comando \chapter{}, respeitando maiúsculas e minúsculas. Quando usado
+		       é preciso incluir texto em [] para não atrapalhar sumário.
+	- [checklist] Criamos um pacote para centralizar todos os checklists e futuramente
+	  	      toda a discução sobre padronização. Ver \svn\latex\checklists. [descontinuado!]
+ 	- [hedrabook] Mudanças nas distâncias de \paragraph (a pedido do Alexandre), para 
+	  	      equilibrá-lo com o chapter
+	- [hedrabolsolayout] Correção na simetria do número de página
+  	- [hedraextra] Acrescentamos 2ex em ambiente bibliohedra
+	- [hedralogo] Criei este pacote com os logos da hedra. Por enquanto temos dois: \logoum \logodois
+	  	      útil para usar com a hedraoctavo.cls por exemplo. 
+	- [hedraextra] Descartamos o nosso ambiente \epigraph e passamos a usar o pacote epigraph.sty
+		       o texto da epígrafes fica alinhado à esquerda, tamanho footnotesize, e o tamanho
+		       da epígrafe é de 70% da mancha. Uso: \epigraph{<FONTE>}{<FONTE>}
+	- [hedrabook] \frenchspacing nas notas.
+	- [hedraendnotes] Foi inteiramente reformado. agora ele conta com as opções "section" e "chapter*":
+	  que coloca as notas com peso de section, na primeira opção, e na segunda, "chapter*", apenas
+	  elimina as notas do sumário. Por default, o peso de abertura da seção para as notas de fim 
+	  é o mesmo de qualquer "chapter".
+	- [hedraextra] Criei um comando para abertura de fala em entrevistas chamado "\fala{}"
+	- [hedracrop] Foi totalmente reformulado. Está sem documentação. Usar opção "svn" para jogar 
+	  info no cabeço.
+	- [hedraextra] Adequei o tamanho da section e \sectionitem e coloquei mais espaços para evitar quebras
+	- [hedrabook] Proibi primeira linha quebrada. 
+	- [hedrabook] Consertei numeração de notas que não recomeçava. 
+	- [hedrabolsolayout] Acertei o cabeço. Agora é possível usar o \hedramarkboth sem restrição. 
+	- [hedrabolsolayout] Conserte problemas no cabeço. Agora temos toda liberdade com cabecos!
+
+A FAZER
+	1. Melhorar as páginas pretas. 
+		- Dividir em pacotes:
+		a. hedralogo.sty
+		b. hedrafichacatalografica.sty
+		- Criar \if para página preta de uma página, para evitar ter que lembrar do "\ \\".
+	2. OK > Acertar data automática nas pretas (desativei estrutura do Marcelo com rsY?)
+	3. NAO VAMOS FAZER > Acertar espaço entre notas (sugestão do Roberto)
+	4. OK > Reestruturar a mancha (ver blog)
+	5. Escrever documentação com docstrip.
+	6. Criar classe para coleção de cordel.
+	7. criar opção \section no pacote hedraendotes
+	8. Separar template da hedraoctavo.cls e pacotes poucos usados
+	9. Criar script para colocar em versalete os números romanos.
+       10. Organizar lista de trocas para o verificador.
+       11. Setar o baselineskip para as páginas pretas
+
+ARQUIVOS
+       classes:
+	hedrabook.cls		modificações na classe book.cls + formato da coleção de bolso
+	hedraoctavo.cls		modificações na classe octavo.cls
+       pacotes:
+	hedrabolsolayout.sty 	layout da coleção de bolso
+	hedracrop.sty		marcas de corte e integração com svn
+	hedraextra.sty		comandos extras que servem para qualquer classe
+	hedratoc.sty		layout do sumário
+	hedraindex.sty		modificação para fazer índice
+	hedraendnotes.sty	
+	hedralogo.sty		logo para outros livros, que não os de bolso. Ainda em desenvolvimento.
+	hedrasides.sty		pacote para teatro com pequenas modificações no espaçamento e tradução dos termos.
+       extras:
+	verificador		script de correção 
+	dic.sh			script que passa o dicionário
+	dic.pws			arquivo com as palavras extras não localizadas no dicionário
+
+VERIFICADOR (sugestões)
+	etc, >> etc.,
