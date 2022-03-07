@@ -1,0 +1,72 @@
+% Tamanhos
+% \tiny
+% \scriptsize
+% \footnotesize
+% \small 
+% \normalsize
+% \large 
+% \Large 
+% \LARGE 
+% \huge
+% \Huge
+
+% Posicionamento
+% \centering 
+% \raggedright
+% \raggedleft
+% \vfill 
+% \hfill 
+% \vspace{Xcm}   % Colocar * caso esteja no começo de uma página. Ex: \vspace*{...}
+% \hspace{Xcm}
+
+% Estilo de página
+% \thispagestyle{<<nosso>>}
+% \thispagestyle{empty}
+% \thispagestyle{plain}  (só número, sem cabeço)
+% https://www.overleaf.com/learn/latex/Headers_and_footers
+
+% Compilador que permite usar fonte de sistema: xelatex, lualatex
+% Compilador que não permite usar fonte de sistema: latex, pdflatex
+
+% Definindo fontes
+% \setmainfont{Times New Roman}  % Todo o texto
+% \newfontfamily\avenir{Avenir}  % Contexto
+
+\begingroup\thispagestyle{empty}\vspace*{.05\textheight} 
+
+              \formular
+              \LARGE
+              \noindent
+              \textsc{Manifesto comunista}
+              % \smallskip
+                      
+              % \large
+              % \noindent\textit{}
+              % \normalsize 
+              \bigskip  
+              
+              \Large
+              \noindent
+              \textbf{Karl Marx e Friedrich Engels}
+              \vspace{3.5em}
+
+              \newfontfamily\minion{Minion Pro}
+              {\fontsize{30}{40}\selectfont \minion\small\noindent Marcus Mazzari (\textit{tradução})}
+
+              {\fontsize{30}{40}\selectfont \minion\small\noindent Ricardo Musse (\textit{introdução})}\\
+              \vspace{3em}
+
+              \noindent
+              {\fontsize{30}{40}\selectfont \minion\small\noindent 2ª edição}
+
+              \vfill
+
+              \newfontfamily\timesnewroman{Times New Roman}
+              {\noindent\fontsize{30}{40}\selectfont \timesnewroman hedra}
+              \smallskip
+
+              {\selectfont\minion\small
+              \noindent São Paulo \quad\the\year}
+
+\endgroup
+\pagebreak
